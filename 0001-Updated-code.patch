@@ -1,0 +1,20 @@
+From 75dbd2af221a802521db14e2f934aaedda9a5702 Mon Sep 17 00:00:00 2001
+From: ajsinp <ajaysingh98147@gmail.com>
+Date: Thu, 21 Dec 2023 23:06:05 +0530
+Subject: [PATCH] Updated code
+
+---
+ about-sec | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 160000 about-sec
+
+diff --git a/about-sec b/about-sec
+new file mode 160000
+index 0000000..00d4bd4
+--- /dev/null
++++ b/about-sec
+@@ -0,0 +1 @@
++Subproject commit 00d4bd4046b8018ed2d6ff82bd253e04657ee5e2
+-- 
+2.43.0.windows.1
+
